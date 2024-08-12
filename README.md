@@ -15,15 +15,16 @@ changing them goes against
 The goal of this config is to extend Prettier's configuration with plugins and
 ignore rules typically desirable in apps.
 
-# Installation
+## Installation
 
 ```sh
-npm i -D @zettca/prettier-config
+npm i -D prettier@3 @zettca/prettier-config
 ```
 
-# Usage
+## Usage
 
-Add this to your `package.json`
+Add this configuration to `package.json` (see
+[configuration](https://prettier.io/docs/en/configuration.html#sharing-configurations))
 
 ```json
 {
