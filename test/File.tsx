@@ -1,3 +1,6 @@
+import fs from "node:fs";
+import { myConfigObject, myFn } from "./fns";
+
 export const MyComponent = () => {
   const handleClick = () => {
     console.log({
