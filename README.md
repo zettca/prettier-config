@@ -1,5 +1,9 @@
 # @zettca/prettier-config
 
+[![NPM Version](https://img.shields.io/npm/v/@zettca/prettier-config)](https://www.npmjs.com/package/@zettca/prettier-config)
+[![CI](https://github.com/zettca/prettier-config/actions/workflows/ci.yml/badge.svg)](https://github.com/zettca/prettier-config/actions/workflows/ci.yml)
+![License](https://img.shields.io/github/license/zettca/prettier-config)
+
 Minimal Prettier sharable configuration.
 
 This configuration **does not and will never** change Prettier's default
